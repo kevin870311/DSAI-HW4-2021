@@ -7,4 +7,4 @@
 然後使用LGBM來進行預測，並設定閥值為0.2
 若預測出的機率大於0.2就代表會重購。
 
-Google repo link : https://docs.google.com/presentation/d/1LCIc-v1MCbh1EDicGgx60WxqCcGJXJ9qdd8pV9dPJ5U/edit#slide=id.gdfadb7fbdf_2_85
+Google repo link : https://docs.google.com/presentation/d/1LCIc-v1MCbh1EDicGgx60WxqCcGJXJ9qdd8pV9dPJ5U/edit?usp=sharing
